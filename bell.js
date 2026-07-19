@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bell
 // @namespace    http://tampermonkey.net/
-// @version      0.0
+// @version      0.7
 // @downloadURL  https://raw.githubusercontent.com/WindyHillss/storage/main/bell.js
 // @updateURL    https://raw.githubusercontent.com/WindyHillss/storage/main/bell.js
 // @description  Add-ons that may be useful in Hordes.io
